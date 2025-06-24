@@ -59,8 +59,6 @@
     "resposta": "Borracha",
     "comentario": "A borracha impede a passagem da corrente elétrica."
   },
-
-  // --- 30 questões extras: Eletricidade e Física Básica ---
   {
     "pergunta": "Qual a unidade de tensão elétrica?",
     "alternativas": ["Ohm", "Ampère", "Volt", "Watt"],
