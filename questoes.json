@@ -3,18 +3,182 @@
     "pergunta": "Qual destes materiais é considerado um bom condutor de eletricidade?",
     "alternativas": ["Madeira", "Borracha", "Cobre", "Vidro"],
     "resposta": "Cobre",
-    "comentario": "O cobre é um dos melhores condutores elétricos, por isso é muito usado em fios e cabos elétricos."
+    "comentario": "O cobre é um excelente condutor elétrico, por isso é amplamente usado em fios."
   },
   {
     "pergunta": "Qual o objetivo do disjuntor em uma instalação elétrica residencial?",
     "alternativas": ["Iluminar a casa", "Medir a voltagem", "Proteger o circuito contra sobrecarga", "Economizar energia"],
     "resposta": "Proteger o circuito contra sobrecarga",
-    "comentario": "O disjuntor desarma quando há excesso de corrente, evitando curtos-circuitos e incêndios."
+    "comentario": "O disjuntor interrompe a corrente quando há sobrecarga, evitando danos."
   },
   {
     "pergunta": "Qual a unidade usada para medir a corrente elétrica?",
     "alternativas": ["Volt", "Watt", "Ampère", "Ohm"],
     "resposta": "Ampère",
-    "comentario": "A corrente elétrica é medida em ampères (A), que indicam o fluxo de elétrons no circuito."
+    "comentario": "Ampère (A) é a unidade padrão de corrente elétrica."
+  },
+  {
+    "pergunta": "O que significa a sigla 'kWh' na conta de energia elétrica?",
+    "alternativas": ["Quilômetros por hora", "Quilowatt-hora", "Quilowatts hidráulicos", "Quiloenergia"],
+    "resposta": "Quilowatt-hora",
+    "comentario": "kWh representa a energia consumida: 1.000 watts durante 1 hora."
+  },
+  {
+    "pergunta": "Qual desses aparelhos consome mais energia elétrica?",
+    "alternativas": ["Geladeira", "Lâmpada LED", "Carregador de celular", "Ventilador"],
+    "resposta": "Geladeira",
+    "comentario": "A geladeira consome mais por funcionar continuamente."
+  },
+  {
+    "pergunta": "Qual a função do fio terra em uma tomada?",
+    "alternativas": ["Economizar energia", "Estabilizar a voltagem", "Evitar choques elétricos", "Aumentar a corrente"],
+    "resposta": "Evitar choques elétricos",
+    "comentario": "O fio terra conduz falhas elétricas para o solo, evitando acidentes."
+  },
+  {
+    "pergunta": "Qual a tensão padrão das tomadas no Brasil atualmente?",
+    "alternativas": ["50V", "110V ou 220V", "380V", "12V"],
+    "resposta": "110V ou 220V",
+    "comentario": "O Brasil adota 110V ou 220V, variando por região."
+  },
+  {
+    "pergunta": "Quando dizemos que uma lâmpada é de '60W', o que isso indica?",
+    "alternativas": ["Seu tamanho", "Seu preço", "Sua potência", "Sua voltagem"],
+    "resposta": "Sua potência",
+    "comentario": "Watts medem a potência, ou seja, a energia que a lâmpada consome."
+  },
+  {
+    "pergunta": "Em uma instalação elétrica, o que acontece se ligar muitos aparelhos em uma só tomada?",
+    "alternativas": ["Aumenta a tensão", "O disjuntor desarma", "Diminui a energia", "Nada muda"],
+    "resposta": "O disjuntor desarma",
+    "comentario": "A sobrecarga faz o disjuntor desligar por segurança."
+  },
+  {
+    "pergunta": "Qual das alternativas representa um material isolante elétrico?",
+    "alternativas": ["Alumínio", "Ferro", "Borracha", "Cobre"],
+    "resposta": "Borracha",
+    "comentario": "A borracha impede a passagem da corrente elétrica."
+  },
+
+  // --- 30 questões extras: Eletricidade e Física Básica ---
+  {
+    "pergunta": "Qual a unidade de tensão elétrica?",
+    "alternativas": ["Ohm", "Ampère", "Volt", "Watt"],
+    "resposta": "Volt",
+    "comentario": "Volt (V) é a unidade de medida da tensão elétrica."
+  },
+  {
+    "pergunta": "Quem foi o inventor da lâmpada incandescente?",
+    "alternativas": ["Benjamin Franklin", "Isaac Newton", "Thomas Edison", "Nikola Tesla"],
+    "resposta": "Thomas Edison",
+    "comentario": "Edison é creditado como o inventor da lâmpada incandescente funcional."
+  },
+  {
+    "pergunta": "O que acontece com a resistência de um fio mais fino?",
+    "alternativas": ["Aumenta", "Diminui", "Desaparece", "Fica igual"],
+    "resposta": "Aumenta",
+    "comentario": "Fios finos oferecem mais resistência à passagem de corrente."
+  },
+  {
+    "pergunta": "O que é necessário para que haja corrente elétrica?",
+    "alternativas": ["Um ímã", "Um interruptor", "Uma diferença de potencial", "Ar-condicionado"],
+    "resposta": "Uma diferença de potencial",
+    "comentario": "Corrente elétrica só ocorre com diferença de tensão entre dois pontos."
+  },
+  {
+    "pergunta": "A resistência elétrica é medida em:",
+    "alternativas": ["Ohm", "Watt", "Ampère", "Volt"],
+    "resposta": "Ohm",
+    "comentario": "Ohm (Ω) é a unidade da resistência elétrica."
+  },
+  {
+    "pergunta": "Qual componente armazena carga elétrica?",
+    "alternativas": ["Resistor", "Diodo", "Capacitor", "Fusível"],
+    "resposta": "Capacitor",
+    "comentario": "O capacitor acumula carga elétrica temporariamente."
+  },
+  {
+    "pergunta": "O que é um curto-circuito?",
+    "alternativas": ["Uma tomada desligada", "Ligação errada sem resistência", "Um disjuntor novo", "Uma lâmpada queimada"],
+    "resposta": "Ligação errada sem resistência",
+    "comentario": "Curto é quando a corrente passa sem controle, gerando calor e risco."
+  },
+  {
+    "pergunta": "A fórmula da Lei de Ohm é:",
+    "alternativas": ["V = R + I", "P = V x I", "V = R x I", "R = V + I"],
+    "resposta": "V = R x I",
+    "comentario": "A Lei de Ohm relaciona tensão, resistência e corrente: V = R × I."
+  },
+  {
+    "pergunta": "O que é potência elétrica?",
+    "alternativas": ["Força da bateria", "Carga acumulada", "Energia gasta por segundo", "Número de elétrons"],
+    "resposta": "Energia gasta por segundo",
+    "comentario": "Potência é a quantidade de energia consumida por segundo."
+  },
+  {
+    "pergunta": "Quem defendeu o uso da corrente alternada?",
+    "alternativas": ["Edison", "Tesla", "Volta", "Faraday"],
+    "resposta": "Tesla",
+    "comentario": "Nikola Tesla promoveu a corrente alternada por ser mais eficiente a longas distâncias."
+  },
+  {
+    "pergunta": "Qual o símbolo da resistência elétrica?",
+    "alternativas": ["Ω", "A", "V", "W"],
+    "resposta": "Ω",
+    "comentario": "O símbolo de Ohm (Ω) representa resistência elétrica."
+  },
+  {
+    "pergunta": "Qual é a função de um fusível?",
+    "alternativas": ["Resfriar o fio", "Interromper corrente em sobrecarga", "Medir tensão", "Ligar dispositivos"],
+    "resposta": "Interromper corrente em sobrecarga",
+    "comentario": "Fusíveis queimam quando há excesso de corrente, protegendo o circuito."
+  },
+  {
+    "pergunta": "Qual é o nome do dispositivo que transforma energia mecânica em elétrica?",
+    "alternativas": ["Transformador", "Motor", "Gerador", "Condensador"],
+    "resposta": "Gerador",
+    "comentario": "Geradores convertem movimento (mecânica) em eletricidade."
+  },
+  {
+    "pergunta": "Qual desses equipamentos consome mais potência?",
+    "alternativas": ["Chuveiro elétrico", "TV", "Ventilador", "Lâmpada LED"],
+    "resposta": "Chuveiro elétrico",
+    "comentario": "O chuveiro consome muito, pois aquece a água rapidamente."
+  },
+  {
+    "pergunta": "O que significa corrente contínua (CC)?",
+    "alternativas": ["Corrente que varia", "Corrente constante em um sentido", "Corrente com picos", "Corrente circular"],
+    "resposta": "Corrente constante em um sentido",
+    "comentario": "A CC flui sempre no mesmo sentido, como nas pilhas."
+  },
+  {
+    "pergunta": "Quantos volts tem uma tomada comum no Brasil?",
+    "alternativas": ["50V", "110V ou 220V", "380V", "9V"],
+    "resposta": "110V ou 220V",
+    "comentario": "Dependendo da cidade ou estado, o padrão varia entre 110V e 220V."
+  },
+  {
+    "pergunta": "O que é corrente alternada (CA)?",
+    "alternativas": ["Corrente que muda de direção", "Corrente de baixa energia", "Corrente de bateria", "Corrente isolada"],
+    "resposta": "Corrente que muda de direção",
+    "comentario": "A CA alterna o sentido do fluxo várias vezes por segundo."
+  },
+  {
+    "pergunta": "Quem descobriu a indução eletromagnética?",
+    "alternativas": ["Tesla", "Edison", "Faraday", "Franklin"],
+    "resposta": "Faraday",
+    "comentario": "Michael Faraday descobriu que campos magnéticos geram corrente elétrica."
+  },
+  {
+    "pergunta": "O que representa o Watt (W)?",
+    "alternativas": ["Energia acumulada", "Potência elétrica", "Corrente máxima", "Tensão mínima"],
+    "resposta": "Potência elétrica",
+    "comentario": "Watt mede a quantidade de energia consumida por unidade de tempo."
+  },
+  {
+    "pergunta": "Qual é a função do transformador elétrico?",
+    "alternativas": ["Medir corrente", "Diminuir a tensão", "Alterar a voltagem", "Produzir calor"],
+    "resposta": "Alterar a voltagem",
+    "comentario": "Transformadores aumentam ou reduzem a tensão elétrica."
   }
 ]
