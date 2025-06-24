@@ -1,0 +1,20 @@
+[
+  {
+    "pergunta": "Qual destes materiais é considerado um bom condutor de eletricidade?",
+    "alternativas": ["Madeira", "Borracha", "Cobre", "Vidro"],
+    "resposta": "Cobre",
+    "comentario": "O cobre é um dos melhores condutores elétricos, por isso é muito usado em fios e cabos elétricos."
+  },
+  {
+    "pergunta": "Qual o objetivo do disjuntor em uma instalação elétrica residencial?",
+    "alternativas": ["Iluminar a casa", "Medir a voltagem", "Proteger o circuito contra sobrecarga", "Economizar energia"],
+    "resposta": "Proteger o circuito contra sobrecarga",
+    "comentario": "O disjuntor desarma quando há excesso de corrente, evitando curtos-circuitos e incêndios."
+  },
+  {
+    "pergunta": "Qual a unidade usada para medir a corrente elétrica?",
+    "alternativas": ["Volt", "Watt", "Ampère", "Ohm"],
+    "resposta": "Ampère",
+    "comentario": "A corrente elétrica é medida em ampères (A), que indicam o fluxo de elétrons no circuito."
+  }
+]
